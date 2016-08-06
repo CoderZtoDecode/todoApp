@@ -24,15 +24,6 @@ USE HOST Entries with the following
 127.0.0.1       profile.mean-applications.com
 127.0.0.1       mean-applications.com
 
-## Tutorial Series
-
-This repo corresponds to the Node Todo Tutorial Series on [scotch.io](http://scotch.io)
-
-Each branch represents a certain tutorial.
-- tut1-starter: [Creating a Single Page Todo App with Node and Angular](http://scotch.io/tutorials/javascript/creating-a-single-page-todo-app-with-node-and-angular)
-- tut2-organization: [Application Organization and Structure](https://scotch.io/tutorials/node-and-angular-to-do-app-application-organization-and-structure)
-- tut3-services: [Controllers and Services](https://scotch.io/tutorials/node-and-angular-to-do-app-controllers-and-services)
-
 Happy Todo-ing!
 
-![Todo-aholic](http://i.imgur.com/ikyqgrn.png)
+![Todo-aholic](http://res.cloudinary.com/sivag/image/upload/v1470478105/Capture_k0vhny.png)

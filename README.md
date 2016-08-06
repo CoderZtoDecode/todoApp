@@ -17,12 +17,12 @@ Node provides the RESTful API. Angular provides the frontend and accesses the AP
 3. Start the server: `node server.js`
 4. View in browser at `todo.mean-applications.com:1000`
 
-USE HOST Entries with the following
+## USE HOST Entries with the following
 
-127.0.0.1       todo.mean-applications.com
-127.0.0.1       gallary.mean-applications.com
-127.0.0.1       profile.mean-applications.com
-127.0.0.1       mean-applications.com
+- 127.0.0.1       todo.mean-applications.com
+- 127.0.0.1       gallary.mean-applications.com
+- 127.0.0.1       profile.mean-applications.com
+- 127.0.0.1       mean-applications.com
 
 Happy Todo-ing!
 
